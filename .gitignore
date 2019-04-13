@@ -1,0 +1,6 @@
+credentials.json
+
+*.pickle
+*.p
+
+.vscode/
